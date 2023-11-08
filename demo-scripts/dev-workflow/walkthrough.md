@@ -82,7 +82,7 @@ Let us make the changes and experience magic of GitHub Actions.
 
     ![image](media/addbranch.png)
 
-3. Navigate to appbar.js file, located in  **src/ContosoTraders.Ui.Website/src/shared/header/appbar.js**
+3. Navigate to appbar.js file, located in  **src/ContosoTraders.Ui.Website/src/components/header/appbar.js**
 
 4. To make it easier for you to complete this change, source code already include code blocks for adding dark mode functionality. You will need to uncomment the code block, let's start by clicking on edit **symbol (2)**.
 
